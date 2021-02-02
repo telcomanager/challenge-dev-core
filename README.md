@@ -24,6 +24,7 @@ O servidor deve prover:
 2) Download do arquivo pro cliente;
 3) Upload de novos arquivos;
 
+!!! O SERVIDOR DEVE SER CAPAZ DE ATENDER REQUISIÇÕES DE MAIS DE 1 CLIENTE SIMULTANEAMENTE !!!
 
 ### Cliente
 
