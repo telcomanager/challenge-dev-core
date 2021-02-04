@@ -8,6 +8,7 @@ Este projeto deve ser desenvolvido na linguagem C e para um sistema operacional 
 
 Este projeto é divido em 2 partes: cliente e servidor.
 
+Não é necessário interface gráfica (GUI). Usar apenas o terminal para chamar ambas as aplicações.
 
 
 ### Servidor
