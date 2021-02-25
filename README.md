@@ -17,7 +17,7 @@ O servidor deverá prover ao cliente dados requisitados por ele, atendendo a um 
 
 Ele deve manter em memória uma lista de nomes de clientes e em qual diretório se encontram os dados de cada um.
 
-O cliente será identificado (ID) por caracteres alfanuméricos.
+O cliente será identificado (ID) por caracteres alfanuméricos. O servidor deve ter uma lista dos clientes válidos cadastrados que será lida ao iniciar o processo.
 
 O servidor deve prover:
 
